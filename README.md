@@ -25,11 +25,14 @@ Timeseries
 ### Birth rate distribution
 
 If birth rate distribution is known this can be mapped on the native result distribution for comparison.
+
 An example csv-file is provided (data from US [1],[2])
 
 ## Example
 A Code Example is available in ipynb format (jupyter-notebook)
 
+
+![Dashboard](https://github.com/MicFell/hd_analysis/blob/main/Dashboard_example.PNG)
 
 #### References
 <a id="1">[1]</a> 
@@ -37,5 +40,3 @@ https://github.com/amankharwal/Birthrate-Analysis/blob/master/births.csv
 
 <a id="2">[2]</a> 
 https://github.com/fivethirtyeight/data/tree/master/births
-
-
